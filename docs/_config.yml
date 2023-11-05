@@ -13,7 +13,9 @@ showinSearchEngines: true
 # Set basic server info
 serverName: LemonVerse
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: bhowlett.ddns.net
+serverIP: stores-structural.gl.at.ply.gg:9599
+
+
 useBedrockForOnlineStatus: false
 
 
